@@ -10,7 +10,7 @@ public class Reversenumber {
 			a=a%10;
 			
 		}
-		System.Out.Println(rev);
+		System.out.println(rev);
 	}
 
 }
